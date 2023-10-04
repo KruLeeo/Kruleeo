@@ -9,12 +9,13 @@ title ="CSS"  width = "50">&nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kruleeo&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kruleeo&theme=github_dark" alt=""/>
 </div> 
-- uses: Platane/snk@v3
-  with:
- # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ Kruleeo }}
-# 
-The first one is 0 contribution, then it goes from the low contribution to the highest.# Exactly 5 colors are expected.outputs: | dist/github-snake.svg dist/github-snake-dark.svg?palette=github-dark dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-  env:
- 
+steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ KruLeeo }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
