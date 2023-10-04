@@ -8,7 +8,7 @@ title ="CSS"  width = "50">&nbsp;
 title ="CSS"  width = "50">&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
 title ="CSS"  width = "50">&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 title ="CSS"  width = "50">&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
 title ="CSS"  width = "50">&nbsp; 
