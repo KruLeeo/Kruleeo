@@ -32,7 +32,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
           
           
       # push the content of <build_dir> to a branch
