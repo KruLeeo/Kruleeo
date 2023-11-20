@@ -7,11 +7,11 @@ title ="CSS"  width = "50">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 title ="CSS"  width = "50">&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-title ="CSS"  width = "50">&nbsp; 
+title ="NodeJS"  width = "50">&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-title ="CSS" style="color: white"  width = "50">&nbsp; 
+title ="Express" style="color: white"  width = "50">&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"
- title ="CSS"  width = "50">&nbsp; 
+ title ="MongoDB"  width = "50">&nbsp; 
           
           
   
