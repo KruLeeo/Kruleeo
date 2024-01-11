@@ -25,8 +25,9 @@ title="npm" width="40" style="display: inline-block;">&nbsp;
 
   
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kruleeo&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kruleeo&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kruleeo&theme=2077" alt=""/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kruleeo&theme=2077" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kruleeo&theme=2077" alt=""/>
 </div> 
 
 ![Snake animation](https://raw.githubusercontent.com/kruleeo/kruleeo/output/github-contribution-grid-snake-dark.svg)
