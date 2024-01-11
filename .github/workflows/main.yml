@@ -36,7 +36,7 @@ jobs:
         run: echo "::set-output name=snake_gif::dist/github-contribution-grid-snake.gif"
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v2.2.4  # Use the latest version compatible with Node.js 16
         with:
           name: snake-gif
           path: dist/github-contribution-grid-snake.gif
