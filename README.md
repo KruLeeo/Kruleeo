@@ -26,7 +26,6 @@ title="npm" width="40" style="display: inline-block;">&nbsp;
   
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kruleeo&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kruleeo&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kruleeo&theme=github_dark" alt=""/>
 </div> 
 
