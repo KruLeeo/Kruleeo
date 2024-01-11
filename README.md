@@ -1,3 +1,8 @@
+  <div id="header" align="left">
+  <h1> Hi there, I'm Ilya!👋</h1>
+  <h3>Developer from 📍Simferopol</h3>
+</div>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 title ="JS" width = "50">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
