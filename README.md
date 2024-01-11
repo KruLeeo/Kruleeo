@@ -29,3 +29,5 @@ title="npm" width="40" style="display: inline-block;">&nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kruleeo&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kruleeo&theme=github_dark" alt=""/>
 </div> 
+
+![snake gif](https://github.com/kruleeo/kruleeo/blob/gh-pages/github-contribution-grid-snake.svg)
