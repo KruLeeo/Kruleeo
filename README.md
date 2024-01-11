@@ -30,5 +30,5 @@ title="npm" width="40" style="display: inline-block;">&nbsp;
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kruleeo&theme=github_dark" alt=""/>
 </div> 
 
-![Snake animation](https://raw.githubusercontent.com/kruleeo/kruleeo/output/github-contribution-grid-snake-dark.gif)
+![Snake animation](https://raw.githubusercontent.com/kruleeo/kruleeo/output/github-contribution-grid-snake-dark.svg)
 
