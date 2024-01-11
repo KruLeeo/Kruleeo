@@ -29,5 +29,4 @@ title="npm" width="40" style="display: inline-block;">&nbsp;
 </div>
           
 
-![Snake animation](https://raw.githubusercontent.com/kruleeo/kruleeo/output/github-contribution-grid-snake-dark.svg)
 
