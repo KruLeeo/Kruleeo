@@ -22,8 +22,7 @@ title="MySQL" width="40" style="display: inline-block; color: #00758F;">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
 title="npm" width="40" style="display: inline-block;">&nbsp;
           
-## It's SNAKE!
-![snake gif](https://github.com/kruleeo/kruleeo/blob/output/github-contribution-grid-snake.svg)
+
   
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kruleeo&theme=github_dark" alt=""/>
